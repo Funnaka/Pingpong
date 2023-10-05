@@ -1,0 +1,2 @@
+# Pingpong
+a algoritmika game
